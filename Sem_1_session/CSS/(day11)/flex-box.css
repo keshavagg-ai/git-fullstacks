@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    padding: 24px;
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    /* row-gap: 100px;
+    column-gap: 100px;  */
+    justify-content: space-between
+
+}
+.child{
+    padding: 20px;
+    border-radius: 10px     ;
+    border: 5px solid black;
+    background-color: red;
+}

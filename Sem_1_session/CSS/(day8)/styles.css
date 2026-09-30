@@ -1,0 +1,17 @@
+body {
+    background-color: yellow;
+}
+h1{
+    color: red;
+    background-color: rgb(1, 255, 47);
+    width: 200px;
+    padding: 10px;
+    box-sizing: content-box;
+}
+p{
+    color: black;
+    background-color: green;
+    width: 400px;
+    padding: 10px;
+    box-sizing: border-box;
+}

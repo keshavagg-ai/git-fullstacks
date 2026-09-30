@@ -1,0 +1,14 @@
+div{
+    background-color: yellow;
+}
+body{ 
+    background-color: black;
+}
+.inner-box {
+    background-color: lightgray;
+}
+span{
+    color: brown;
+    background-color: pink;
+    width: 200px; 
+}

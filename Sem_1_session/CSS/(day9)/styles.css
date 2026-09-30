@@ -1,0 +1,20 @@
+p {
+    color: purple;
+    text-decoration: black underline line-through wavy;
+    
+}
+#p2 {
+    color: orange;
+    font-size: 40px;
+    font-weight: 1000;
+    font-family: "Brush Script MT", cursive;
+}
+
+#p3 {
+    color: green;
+    font-family: Georgia, cursive;
+}
+
+a {
+    text-decoration: none;
+}

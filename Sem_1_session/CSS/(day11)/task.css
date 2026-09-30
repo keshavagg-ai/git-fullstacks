@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    padding: 20px;
+    background-color: yellow;
+    overflow: scroll;
+    width:40vw;
+    margin: 20px auto;
+    height: 50vw;
+}
+
+div {
+    width: 200vw;
+    padding: 20px;
+    background-color: red;
+}
+
+img{
+    display: block;
+}
